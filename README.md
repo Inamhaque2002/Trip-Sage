@@ -51,7 +51,7 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 ## Contact 📧
 For inquiries, feedback, or support, feel free to reach out:
 
-Email: anwarul00000000000@gmail.com
+Email: techinamul2002@gmail.com
 
 ## Made with ♡ by Anwarul Haque
 
