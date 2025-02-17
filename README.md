@@ -53,5 +53,5 @@ For inquiries, feedback, or support, feel free to reach out:
 
 Email: techinamul2002@gmail.com
 
-## Made with ♡ by Anwarul Haque
+## Made with ♡ by Inamul Haque
 
